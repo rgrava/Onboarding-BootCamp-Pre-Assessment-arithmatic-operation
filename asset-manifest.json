@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Onboarding-BootCamp-Pre-Assessment-arithmatic-operation/static/css/main.ca61fd6d.chunk.css",
+    "main.js": "/Onboarding-BootCamp-Pre-Assessment-arithmatic-operation/static/js/main.ef46c7c9.chunk.js",
+    "main.js.map": "/Onboarding-BootCamp-Pre-Assessment-arithmatic-operation/static/js/main.ef46c7c9.chunk.js.map",
+    "runtime-main.js": "/Onboarding-BootCamp-Pre-Assessment-arithmatic-operation/static/js/runtime-main.37d3d234.js",
+    "runtime-main.js.map": "/Onboarding-BootCamp-Pre-Assessment-arithmatic-operation/static/js/runtime-main.37d3d234.js.map",
+    "static/js/2.b67df6e6.chunk.js": "/Onboarding-BootCamp-Pre-Assessment-arithmatic-operation/static/js/2.b67df6e6.chunk.js",
+    "static/js/2.b67df6e6.chunk.js.map": "/Onboarding-BootCamp-Pre-Assessment-arithmatic-operation/static/js/2.b67df6e6.chunk.js.map",
+    "static/js/3.c452ef25.chunk.js": "/Onboarding-BootCamp-Pre-Assessment-arithmatic-operation/static/js/3.c452ef25.chunk.js",
+    "static/js/3.c452ef25.chunk.js.map": "/Onboarding-BootCamp-Pre-Assessment-arithmatic-operation/static/js/3.c452ef25.chunk.js.map",
+    "index.html": "/Onboarding-BootCamp-Pre-Assessment-arithmatic-operation/index.html",
+    "static/css/main.ca61fd6d.chunk.css.map": "/Onboarding-BootCamp-Pre-Assessment-arithmatic-operation/static/css/main.ca61fd6d.chunk.css.map",
+    "static/js/2.b67df6e6.chunk.js.LICENSE.txt": "/Onboarding-BootCamp-Pre-Assessment-arithmatic-operation/static/js/2.b67df6e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37d3d234.js",
+    "static/js/2.b67df6e6.chunk.js",
+    "static/css/main.ca61fd6d.chunk.css",
+    "static/js/main.ef46c7c9.chunk.js"
+  ]
+}
