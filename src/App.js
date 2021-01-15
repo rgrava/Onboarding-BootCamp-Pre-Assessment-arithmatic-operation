@@ -4,6 +4,7 @@ import coin2 from './components/coin2.png'
 import Bitcoin from './components/convertToBit';
 import Satoshi from './components/convertToSat';
 
+//using a converter class to display both converters and recieve user input
 class Convert extends React.Component {
   constructor(props) {
     super(props);

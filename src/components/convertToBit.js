@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+//this will get user input and convert the entered satoshi and convert to bitcoin
+// formfula: 100 Million Satoshi = 1 Bitcoin
 const Bitcoin = (props) => {
     const { sats } = props;
     let bits = sats/100000000
