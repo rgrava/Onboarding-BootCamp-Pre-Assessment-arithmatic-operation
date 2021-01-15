@@ -1,0 +1,10 @@
+lsi: false
+safe: true
+source: Onboarding-BootCamp-Pre-Assessment-arithmatic-operation
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
