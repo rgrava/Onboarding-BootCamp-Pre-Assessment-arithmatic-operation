@@ -30,7 +30,7 @@ class Convert extends React.Component {
   return (  
     <div className="App">
       <header className="App-header">
-        <img src={coin2} className="coinicon" />
+        <img src={coin2} className="coinicon" alt="logo" />
         <p>
          Bitcoin To Satoshi and Satoshi to Bitcoin Converter
         </p>
